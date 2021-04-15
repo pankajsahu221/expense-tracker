@@ -1,0 +1,13 @@
+.transactions{
+    font-size: 22px;
+    margin: 10px 5px;
+    overflow-y: scroll;
+    max-height:450px; 
+}
+.listitem{
+    color: white;
+    border: 1px solid #e9e9e9;
+    margin-top: 5px;
+    border-radius: 4px;
+    cursor: pointer;
+}

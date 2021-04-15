@@ -1,0 +1,8 @@
+.newTransactions{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 5px;
+}
+.newTransactions Button{
+    margin-top: 15px;
+}
